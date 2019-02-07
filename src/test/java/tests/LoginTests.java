@@ -26,6 +26,7 @@ public class LoginTests {
 
     @Test
     public void loginTest1(){
+        //add a comment to login test1
        driver.get("http://secure.smartbearsoftware.com/samples/TestComplete12/WebOrders/Login.aspx");
        driver.findElement(By.id("ctl00_MainContent_username")).sendKeys("Tester");
        driver.findElement(By.id("ctl00_MainContent_password")).sendKeys("test" + Keys.ENTER);
