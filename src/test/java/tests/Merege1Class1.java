@@ -14,4 +14,10 @@ public class Merege1Class1 {
         System.out.println("Merge 2");
     }
 
+    @Test
+    public void Merge3(){
+        System.out.println("Merge 3");
+    }
+
+
 }
