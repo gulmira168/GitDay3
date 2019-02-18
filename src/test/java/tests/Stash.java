@@ -9,4 +9,8 @@ public class Stash {
         System.out.println("stash 2");
     }
 
+    public void Stash4(){
+        System.out.println("stash 2");
+    }
+
 }
